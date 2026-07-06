@@ -1,0 +1,9 @@
+venv/
+__pycach__/
+*.py[cod]
+.env
+.vscode/
+db.sqlite3
+media/
+.DS_Store
+Thumbs.db
